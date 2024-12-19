@@ -1,0 +1,131 @@
+[
+  {
+    "_id": "672336c5c1f37d5a94b44ef8",
+    "name": "Leather Handbag",
+    "category": "accessories",
+    "description": "Stylish leather handbag with ample storage space.",
+    "price": 79.99,
+    "oldPrice": 99.99,
+    "image": "https://images.unsplash.com/photo-1512201078372-9c6b2a0d528a?q=80&w=2073&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "color": "black",
+    "rating": 4.5,
+    "author":"admin"
+  },
+  {
+    "_id": "672336c5c1f37d5a94b44ef9  ",
+    "name": "Evening Gown",
+    "category": "dress",
+    "description": "Elegant evening gown for special occasions.",
+    "price": 149.99,
+    "oldPrice": 199.99,
+    "image": "https://images.unsplash.com/photo-1568251188392-ae32f898cb3b?q=80&w=2062&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "color": "red",
+    "rating": 4.0
+  },
+  {
+    "_id": 3,
+    "name": "Gold Necklace",
+    "category": "jewellery",
+    "description": "Exquisite gold necklace with intricate design.",
+    "price": 199.99,
+    "image": "https://images.unsplash.com/photo-1631097969294-c38afba59496?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "color": "gold",
+    "rating": 4.7
+  },
+  {
+    "_id": 4,
+    "name": "Matte Lipstick",
+    "category": "cosmetics",
+    "description": "Long-lasting matte lipstick in various shades.",
+    "price": 19.99,
+    "image": "https://images.unsplash.com/photo-1631214500115-598fc2cb8d2d?q=80&w=1925&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "color": "red",
+    "rating": 4.2
+  },
+  {
+    "_id": 5,
+    "name": "Silk Scarf",
+    "category": "accessories",
+    "description": "Luxurious silk scarf with vibrant colors.",
+    "price": 29.99,
+    "oldPrice": 39.99,
+    "image": "https://images.unsplash.com/photo-1485527691629-8e370684924c?q=80&w=2074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "color": "blue",
+    "rating": 4.3
+  },
+  {
+    "_id": 6,
+    "name": "Cocktail Dress",
+    "category": "dress",
+    "description": "Chic cocktail dress for parties and events.",
+    "price": 89.99,
+    "image": "https://images.unsplash.com/photo-1496747611176-843222e1e57c?q=80&w=2073&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "color": "black",
+    "rating": 4.4
+  },
+  {
+    "_id": 7,
+    "name": "Diamond Earrings",
+    "category": "jewellery",
+    "description": "Sparkling diamond earrings that add elegance to any outfit.",
+    "price": 299.99,
+    "oldPrice": 349.99,
+    "image": "https://images.unsplash.com/photo-1587467442586-7bcc51828a10?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "color": "silver",
+    "rating": 4.8
+  },
+  {
+    "_id": 8,
+    "name": "Foundation",
+    "category": "cosmetics",
+    "description": "High-coverage foundation for a flawless finish.",
+    "price": 39.99,
+    "image": "https://images.unsplash.com/photo-1599733589046-10c005739ef9?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "color": "beige",
+    "rating": 4.1
+  },
+  {
+    "_id": 9,
+    "name": "Sunglasses",
+    "category": "accessories",
+    "description": "Trendy sunglasses with UV protection.",
+    "price": 49.99,
+    "image": "https://images.unsplash.com/photo-1469334031218-e382a71b716b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "color": "black",
+    "rating": 4.6
+  },
+  {
+    "_id": 10,
+    "name": "Casual Pants",
+    "category": "dress",
+    "description": "Comfortable maxi dress for casual outings.",
+    "price": 59.99,
+    "oldPrice": 79.99,
+    "image": "https://plus.unsplash.com/premium_photo-1664298355914-bc65d2c9af64?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "color": "green",
+    "rating": 4.2
+  },
+  {
+    "_id": 11,
+    "name": "Canvas Tote Bag",
+    "category": "accessories",
+    "description": "Durable canvas tote for everyday use.",
+    "price": 24.99,
+    "image": "data:image/jpeg;base64,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",
+    "color": "beige",
+    "rating": 4.4
+  } ,
+  {
+    "_id": 12,
+    "name": "Floral Maxi Dress",
+    "category": "dress",
+    "description": "Beautiful floral dress perfect for summer.",
+    "price": 89.99,
+    "oldPrice": 109.99,
+    "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSGiPAQxmXHHYtHOV8faGdDTa_c3cTYOfXBQ6G-aVgH2fPlyF8hR1PzGP4eHxiYYfglp2R1l2_x0GH-do1wi3kfB8FJNxM5uhZFigniyKKkX5qZhGhYgD48qw",
+    "color": "pink",
+    "rating": 4.6
+  }
+  
+  
+]
